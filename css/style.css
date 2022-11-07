@@ -80,6 +80,13 @@ p.gametext {
   display: none;
 }
 
+.0 {
+  color: #000000;
+  background-color: fff856;
+  padding-left: 10px;
+}
+
+
 .a {
   color: #db21e7;
   padding-left: 10px;
