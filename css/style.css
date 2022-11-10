@@ -39,7 +39,7 @@ img.qr {
 img.small {
     position: absolute;
     width: 65%;
-    top: 220px;
+    top: 270px;
     left: 175px;
   }
 
@@ -160,6 +160,7 @@ form {
     justify-content: flex-start;
     padding: 10px;
     font-size: 1.5em;
+    margin-bottom: 20px;
   }
     h2 {
         padding-left: 20px;
