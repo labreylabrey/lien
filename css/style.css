@@ -265,7 +265,7 @@ h2 {
 }
 
 #pot2 {
-  bottom: 105;
+  bottom: 10%;
 }
 
 img.small {
@@ -449,6 +449,7 @@ img.me {
           width: 520px;
           animation: move 20s linear 0s infinite;
           transition: 1s ease-in-out all;
+          bottom: 6%;
         }
 
         @-webkit-keyframes move {
