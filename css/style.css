@@ -16,7 +16,6 @@
     flex-wrap: wrap;
     justify-content: flex-start;
     cursor: default;
-    overflow: hidden;
   }
 
    img.logo {
