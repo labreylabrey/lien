@@ -10,7 +10,7 @@
     color: #222222;
     background-color: #ffffff;
     text-align: left;
-    overflow: hidden;
+    overflow: auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
