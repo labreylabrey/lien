@@ -10,7 +10,7 @@
     color: #222222;
     background-color: #ffffff;
     text-align: left;
-    overflow: hidden;
+    overflow: auto;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -19,6 +19,9 @@
     width: 100%;
     height: auto;
     background-image: url("../img/backup.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
   }
 
 
