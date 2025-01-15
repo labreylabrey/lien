@@ -232,6 +232,7 @@ padding: 5px;
     height: 100vh;
     margin: 0 auto;
     overflow: hidden;
+    overflow-y: auto;    
     cursor: url('../img/finger.png') 0 0, pointer;
     pointer-events: auto;
     }
